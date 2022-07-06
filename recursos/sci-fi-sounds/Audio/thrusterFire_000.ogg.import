@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/thrusterFire_000.ogg-756b9edbb6f80d50e848655f645f2ec3.oggstr"
+
+[deps]
+
+source_file="res://recursos/sci-fi-sounds/Audio/thrusterFire_000.ogg"
+dest_files=[ "res://.import/thrusterFire_000.ogg-756b9edbb6f80d50e848655f645f2ec3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

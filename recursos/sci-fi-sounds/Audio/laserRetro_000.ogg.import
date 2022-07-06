@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/laserRetro_000.ogg-29b08a0807790b34d3cb51c72b83f1b7.oggstr"
+
+[deps]
+
+source_file="res://recursos/sci-fi-sounds/Audio/laserRetro_000.ogg"
+dest_files=[ "res://.import/laserRetro_000.ogg-29b08a0807790b34d3cb51c72b83f1b7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
