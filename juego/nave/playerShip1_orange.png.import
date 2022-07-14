@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/playerShip1_orange.png-bc729f96694063c5d19b640d11e157c9.stex"
+path="res://.import/playerShip1_orange.png-096fd10c5c711144cbcdbce287d1c54c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://recursos/spaceshooter/PNG/playerShip1_orange.png"
-dest_files=[ "res://.import/playerShip1_orange.png-bc729f96694063c5d19b640d11e157c9.stex" ]
+source_file="res://juego/nave/playerShip1_orange.png"
+dest_files=[ "res://.import/playerShip1_orange.png-096fd10c5c711144cbcdbce287d1c54c.stex" ]
 
 [params]
 
